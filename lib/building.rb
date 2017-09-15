@@ -3,7 +3,7 @@ class Building
 
   def initialize
     @units = []
-  end
+  end     
 
   def add_unit(apt)
     @units << apt
